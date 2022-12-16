@@ -1,0 +1,14 @@
+.App {
+  width: 400px;
+}
+
+.App-header {
+  background-color: #47484c;
+  height: 40px;
+  color: white;
+}
+
+.App-header > h1 {
+  padding: 8px 0 0 15px;
+  font-size: 16px;
+}
